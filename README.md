@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @henriguisatec
+- 👋 Hi, I’m Henri
 - 👀 I’m interested in sistem engeenering and games.
 - 🌱 I’m currently learning python.
 - 📫 How to reach me: henriguisatec@gmail.com
