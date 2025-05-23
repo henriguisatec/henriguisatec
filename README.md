@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Henri
 - 👀 I’m interested in sistem engeenering and games.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning PHP and Mobile development.
 - 📫 How to reach me: henriguisatec@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started my career hacking a Pokémon game.
